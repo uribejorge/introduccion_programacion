@@ -1,0 +1,182 @@
+
+seccion 9 introduccion a la programacion
+
+
+#Propiedades de espaciado y unidades de medidad css y ejemplos
+Propiedades de espaciado
+img
+
+Margin (Margen):
+Propiedades: margin-top, margin-right, margin-bottom, margin-left o la propiedad abreviada margin.
+Ejemplo con unidades de medida:
+
+/* Margen en todos los lados */
+div {
+  margin: 10px; /* 10 píxeles de margen en todos los lados */
+}
+
+/* Margen específico para cada lado */
+div {
+  margin-top: 20px; /* 20 píxeles de margen en la parte superior */
+  margin-right: 30px; /* 30 píxeles de margen a la derecha */
+  margin-bottom: 10px; /* 10 píxeles de margen en la parte inferior */
+  margin-left: 5px; /* 5 píxeles de margen a la izquierda */
+}
+
+Padding (Relleno):
+Propiedades: padding-top, padding-right, padding-bottom, padding-left o la propiedad abreviada padding.
+
+Ejemplo con unidades de medida:
+
+/* Relleno en todos los lados */
+div {
+  padding: 15px; /* 15 píxeles de relleno en todos los lados */
+}
+
+/* Relleno específico para cada lado */
+div {
+  padding-top: 10px; /* 10 píxeles de relleno en la parte superior */
+  padding-right: 20px; /* 20 píxeles de relleno a la derecha */
+  padding-bottom: 15px; /* 15 píxeles de relleno en la parte inferior */
+  padding-left: 5px; /* 5 píxeles de relleno a la izquierda */
+}
+
+Border (Borde):
+Propiedades: border-width, border-style, border-color, border-top, border-right, border-bottom, border-left, etc.
+
+Ejemplo:
+
+/* Definir un borde en un elemento */
+div {
+  border: 2px solid #333; /* Borde de 2 píxeles de ancho, sólido y color #333 */
+}
+
+/* Establecer bordes en lados específicos */
+div {
+  border-top: 1px dashed #999; /* Borde superior de 1 píxel, discontinuo y color #999 */
+  border-bottom: 3px double #666; /* Borde inferior de 3 píxeles, doble y color #666 */
+}
+
+/* Aplicar bordes redondeados a un div */
+.div-con-borde-redondeado {
+  width: 200px;
+  height: 200px;
+  background-color: #3498db;
+  border-radius: 20px; /* Esquinas redondeadas de 20 píxeles */
+}
+
+Espaciado entre letras (letter-spacing):
+Propiedad: letter-spacing.
+
+Ejemplo:
+
+/* Aumentar el espacio entre letras */
+h1 {
+  letter-spacing: 2px; /* 2 píxeles de espacio entre letras */
+}
+
+/* Reducir el espacio entre letras */
+p {
+  letter-spacing: -1px; /* -1 píxel de espacio entre letras (letras más cercanas) */
+}
+
+Espaciado entre palabras (word-spacing):
+Propiedad: word-spacing.
+
+Ejemplo:
+
+/* Aumentar el espacio entre palabras */
+p {
+  word-spacing: 5px; /* 5 píxeles de espacio entre palabras */
+}
+
+/* Reducir el espacio entre palabras */
+p {
+  word-spacing: -2px; /* -2 píxeles de espacio entre palabras (palabras más cercanas) */
+}
+
+Unidades de medida más comunes en CSS
+img
+
+En el contexto de CSS (Cascading Style Sheets), las unidades de medida se utilizan para definir dimensiones y tamaños de elementos en una página web. CSS admite diversas unidades de medida que permiten especificar longitudes, anchuras, alturas, márgenes, rellenos y otros atributos dimensionales. Algunas de las unidades de medida más comunes en CSS incluyen:
+
+Píxeles (px): Representa los píxeles en la pantalla. 1px = 1 píxel de la pantalla. Es la unidad de medida más común y precisa.
+Ejemplo:
+
+h1 {
+  font-size: 24px; 
+}
+
+Porcentaje (%): Se refiere al porcentaje del tamaño del elemento padre. Por ejemplo, el 50% de la altura del elemento padre.
+Ejemplo:
+
+img {
+  width: 50%; 
+}
+
+Em: Basado en el tamaño de fuente del elemento. 1em = tamaño de fuente actual. Cambia si el tamaño de fuente cambia.
+Ejemplo:
+
+p {
+  font-size: 1.2em;
+}
+
+Rem: Igual que em pero basado en el tamaño de fuente de la raíz <html> en lugar del elemento.
+Ejemplo:
+
+html {
+  font-size: 16px;  
+}
+
+h2 {
+  font-size: 1.5rem; /* = 16px * 1.5 = 24px */
+}
+
+Vw (view width): Ancho de la ventana viewport.
+Ejemplo:
+
+img {
+  width: 80vw; /* 80% del ancho de la ventana */ 
+}
+
+Vh (view height): Altura de la ventana viewport.
+Ejemplo:
+
+body {
+  min-height: 100vh; 
+}
+
+Cm (centímetros): Representa el tamaño en centímetros. 1cm = 1/100 de metro.
+Ejemplo:
+
+div {
+  width: 5cm; 
+}
+
+Mm (milímetros): Representa el tamaño en milímetros. 1mm = 1/1000 de metro.
+Ejemplo:
+
+p {
+  font-size: 12mm;
+}
+
+In (pulgadas): Representa el tamaño en pulgadas. 1in = 2.54cm.
+Ejemplo:
+
+img {
+  width: 6in;
+}
+
+Pt (puntos): Unidad tipográfica tradicional. 1pt = 1/72 de pulgada.
+Ejemplo:
+
+h1 {
+  font-size: 36pt;
+}
+
+Pc (picas): Otra unidad tipográfica. 1pc = 12pt.
+Ejemplo:
+
+p {
+  line-height: 1.5pc; 
+}
