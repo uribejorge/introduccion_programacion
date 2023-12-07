@@ -1,7 +1,6 @@
 # seccion introduccion a la programacion
-
 ## Editores de código para desarrollo web
-- Visual Studio Code: un editor de código gratuito y de código abierto desarrollado por Microsoft. Es altamente personalizable y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
+Visual Studio Code: un editor de código gratuito y de código abierto desarrollado por Microsoft. Es altamente personalizable y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
 
 - Sublime Text: un editor de código pago con una licencia perpetua. Es rápido y ligero, y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
 
@@ -9,34 +8,34 @@
 
 - Notepad++: un editor de código gratuito y de código abierto desarrollado por la comunidad. Es rápido y ligero, y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
 
-- Brackets: un editor de código gratuito y de código abierto desarrollado por Adobe. Es altamente personalizable y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
+-Brackets: un editor de código gratuito y de código abierto desarrollado por Adobe. Es altamente personalizable y tiene una amplia gama de características, incluyendo soporte para HTML, CSS, JavaScript, PHP, Python, C++, y muchas otras.
 
 La elección del mejor editor de código para ti depende de tus necesidades y preferencias. Si eres un desarrollador web principiante, te recomiendo empezar con un editor de código gratuito, como Visual Studio Code, Sublime Text, Atom o Notepad++. Estos editores son todos fáciles de usar y tienen una amplia gama de características que pueden ayudarte a aprender desarrollo web.
 
-## Visual Studio Code (VS Code)
+### Visual Studio Code (VS Code)
 Es un editor de código desarrollado por Microsoft. Se ha convertido en una de las herramientas más populares para la programación y el desarrollo de software debido a su versatilidad, rendimiento y amplia comunidad de usuarios y extensiones.
 
 Algunas características destacadas de Visual Studio Code son:
 
-- Editor de código: VS Code ofrece un editor de código potente con resaltado de sintaxis, sugerencias inteligentes, autocompletado y muchas otras características útiles para facilitar la escritura y edición de código.
+Editor de código: VS Code ofrece un editor de código potente con resaltado de sintaxis, sugerencias inteligentes, autocompletado y muchas otras características útiles para facilitar la escritura y edición de código.
 
-- Depuración: Incluye herramientas de depuración integradas que permiten a los desarrolladores rastrear y corregir errores en su código de manera eficiente.
+Depuración: Incluye herramientas de depuración integradas que permiten a los desarrolladores rastrear y corregir errores en su código de manera eficiente.
 
-- Integración con Git: Ofrece una sólida integración con sistemas de control de versiones, como Git, lo que facilita la gestión de cambios en el código y la colaboración en proyectos.
+Integración con Git: Ofrece una sólida integración con sistemas de control de versiones, como Git, lo que facilita la gestión de cambios en el código y la colaboración en proyectos.
 
-- Extensiones: Una de las características más poderosas de VS Code es su capacidad para ser extendido mediante extensiones. Hay una amplia gama de extensiones disponibles en el mercado que agregan funcionalidades adicionales, como soporte para diferentes lenguajes de programación, herramientas de desarrollo específicas, temas visuales y más.
+Extensiones: Una de las características más poderosas de VS Code es su capacidad para ser extendido mediante extensiones. Hay una amplia gama de extensiones disponibles en el mercado que agregan funcionalidades adicionales, como soporte para diferentes lenguajes de programación, herramientas de desarrollo específicas, temas visuales y más.
 
-- Terminal integrada: Proporciona una terminal integrada en la que los desarrolladores pueden ejecutar comandos y scripts directamente desde el IDE.
+Terminal integrada: Proporciona una terminal integrada en la que los desarrolladores pueden ejecutar comandos y scripts directamente desde el IDE.
 
-- Vista en pantalla dividida: Permite dividir la ventana del editor en múltiples paneles para trabajar en varios archivos o secciones de código al mismo tiempo.
+Vista en pantalla dividida: Permite dividir la ventana del editor en múltiples paneles para trabajar en varios archivos o secciones de código al mismo tiempo.
 
-- Integración en la nube: VS Code se puede integrar con servicios en la nube y entornos de desarrollo remoto, lo que permite a los desarrolladores trabajar en proyectos alojados en servidores remotos.
+Integración en la nube: VS Code se puede integrar con servicios en la nube y entornos de desarrollo remoto, lo que permite a los desarrolladores trabajar en proyectos alojados en servidores remotos.
 
-- Soporte para múltiples lenguajes: Aunque VS Code es muy utilizado para desarrollo web, también ofrece soporte para una amplia variedad de lenguajes de programación y tecnologías.
+Soporte para múltiples lenguajes: Aunque VS Code es muy utilizado para desarrollo web, también ofrece soporte para una amplia variedad de lenguajes de programación y tecnologías.
 
-- Personalización: Los usuarios pueden personalizar el aspecto y la funcionalidad de VS Code según sus preferencias, eligiendo temas visuales, atajos de teclado y más.
+Personalización: Los usuarios pueden personalizar el aspecto y la funcionalidad de VS Code según sus preferencias, eligiendo temas visuales, atajos de teclado y más.
 
-- Gratuito y de código abierto: Visual Studio Code es gratuito y de código abierto, lo que significa que los desarrolladores pueden acceder al código fuente, contribuir con mejoras y personalizarlo según sus necesidades.
+Gratuito y de código abierto: Visual Studio Code es gratuito y de código abierto, lo que significa que los desarrolladores pueden acceder al código fuente, contribuir con mejoras y personalizarlo según sus necesidades.
 
 https://code.visualstudio.com/
 
@@ -68,7 +67,7 @@ Algunas de las características y mejoras más importantes de HTML5 incluyen:
 ## Elemento HTML
 Un elemento HTML es una etiqueta que se utiliza para estructurar el contenido de una página web. Los elementos HTML se utilizan para crear elementos de contenido, como párrafos, encabezados, tablas, imágenes y enlaces.
 
-- Cada elemento HTML tiene un nombre y una apertura y cierre de etiqueta. El nombre del elemento es el texto que aparece entre los símbolos de menor y mayor (< y >). La apertura de la etiqueta se llama etiqueta de apertura y la cierre de la etiqueta se llama etiqueta de cierre.
+Cada elemento HTML tiene un nombre y una apertura y cierre de etiqueta. El nombre del elemento es el texto que aparece entre los símbolos de menor y mayor (< y >). La apertura de la etiqueta se llama etiqueta de apertura y la cierre de la etiqueta se llama etiqueta de cierre.
 
 Por ejemplo, el elemento HTML para un párrafo es <p>. La etiqueta de apertura es <p> y la etiqueta de cierre es </p>.
 
@@ -76,10 +75,10 @@ Los elementos HTML se pueden anidar, lo que significa que se pueden colocar uno 
 
 Los elementos HTML son una parte importante del lenguaje HTML. Se utilizan para crear la estructura de una página web y para mostrar el contenido de una página web.
 
-## Anatomía de un elemento HTML
+Anatomía de un elemento HTML
 html
 
-### Anidamiento de elementos HTM
+## Anidamiento de elementos HTM
 El anidamiento de elementos HTML es el proceso de colocar un elemento HTML dentro de otro elemento HTML. Este es un concepto importante en el lenguaje HTML, ya que permite crear estructuras complejas de contenido web.
 
 Para anidar elementos HTML, simplemente abre el elemento padre y luego abre el elemento hijo dentro del elemento padre. Cuando hayas terminado de usar el elemento hijo, ciérralo.
@@ -100,7 +99,7 @@ Puedes anidar elementos HTML de cualquier manera que desees. Sin embargo, es imp
 
 El anidamiento de elementos HTML puede ser una herramienta poderosa para crear estructuras complejas de contenido web. Sin embargo, es importante usarlo de manera responsable.
 
-Comentarios HTML
+## Comentarios HTML
 Los comentarios HTML son una forma de agregar notas al código HTML que no se mostrarán en la página web. Se pueden usar para proporcionar información sobre el código, explicar el propósito de una sección de código o simplemente para hacer anotaciones.
 
 Los comentarios HTML se escriben entre el símbolo de signo menos (-) y el signo mayor (>). Pueden ser una línea o múltiples líneas.
@@ -114,7 +113,7 @@ Un comentario de varias líneas se vería así:
 <!-- Este es un comentario de varias líneas
 que se extiende a varias líneas -->
 
-Estructura básica de un documento HTML5
+## Estructura básica de un documento HTML5
 La estructura básica de un documento HTML5 consta de las etiquetas esenciales que proporcionan la base para crear una página web. Aquí tienes un ejemplo de cómo se vería la estructura básica:
 
 ```
@@ -134,47 +133,47 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
 
 ```
 
-Explicación:
+## Explicación:
 
-<!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
-<html>: Elemento raíz que engloba todo el contenido HTML.
-<head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
-<meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+- <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
+- <html>: Elemento raíz que engloba todo el contenido HTML.
+- <head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
+- <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
+- <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
 <title>: Define el título de la página que se muestra en la barra de título del navegador.
-<body>: Contiene el contenido visible de la página.
-<h1>: Encabezado de nivel 1, utilizado para títulos importantes.
-<p>: Párrafo, para insertar texto y contenido.
-<!DOCTYPE html>
+- <body>: Contiene el contenido visible de la página.
+- <h1>: Encabezado de nivel 1, utilizado para títulos importantes.
+- <p>: Párrafo, para insertar texto y contenido.
+- <!DOCTYPE html>
 La declaración de tipo de documento (DOCTYPE) es una declaración de texto que indica al navegador cómo interpretar el código HTML de una página web. La declaración DOCTYPE debe ser la primera línea de código en un documento HTML.
 
 Hay muchos tipos diferentes de declaraciones DOCTYPE, pero la más común es la siguiente:
 
-<!DOCTYPE html>
+## <!DOCTYPE html>
 
 Esta declaración DOCTYPE indica al navegador que la página web está escrita en HTML5, la última versión del lenguaje HTML.
 
 La declaración DOCTYPE es importante porque ayuda a garantizar que la página web se muestre correctamente en todos los navegadores. Sin una declaración DOCTYPE válida, el navegador puede no poder interpretar el código HTML de la página web correctamente y la página puede no mostrarse correctamente.
 
-<html>
+## <html>
 La etiqueta HTML <html> es la etiqueta raíz de un documento HTML. Marca el comienzo y el final del documento HTML.
 
 La etiqueta <html> debe ser la primera etiqueta en un documento HTML y debe cerrarse con la etiqueta </html>.
 
 La etiqueta <html> no tiene ningún contenido, pero puede contener las etiquetas <head> y <body>.
 
-<head>
+## <head>
 La etiqueta HTML <head> es una sección de un documento HTML que contiene información sobre el documento, como el título, las palabras clave y la descripción. La etiqueta <head> debe ser la primera etiqueta en un documento HTML y debe cerrarse con la etiqueta </head>.
 
 La etiqueta <head> no contiene ningún contenido, pero puede contener las siguientes etiquetas:
 
-<title>: La etiqueta <title> contiene el título del documento HTML. El título se mostrará en la ventana del navegador y en los resultados de búsqueda.
+## <title>: La etiqueta <title> contiene el título del documento HTML. El título se mostrará en la ventana del navegador y en los resultados de búsqueda.
 <meta>: La etiqueta <meta> se utiliza para agregar información meta al documento HTML. La información meta no se muestra en la página web, pero se utiliza por los motores de búsqueda y otros programas.
-<link>: La etiqueta <link> se utiliza para enlazar el documento HTML a otros recursos, como archivos CSS, archivos JavaScript y archivos de imágenes.
+## <link>: La etiqueta <link> se utiliza para enlazar el documento HTML a otros recursos, como archivos CSS, archivos JavaScript y archivos de imágenes.
 <script>: La etiqueta <script> se utiliza para insertar código JavaScript en el documento HTML. El código JavaScript se ejecuta en el navegador del usuario y puede utilizarse para agregar funcionalidad a la página web.
 La etiqueta <head> es importante porque ayuda a estructurar un documento HTML y a proporcionar información sobre el documento al navegador.
 
-<body>
+## <body>
 La etiqueta HTML <body> es una sección de un documento HTML que contiene el contenido visible de la página web, como el texto, las imágenes y los formularios. La etiqueta <body> debe estar entre las etiquetas <html> y </html>.
 
 Etiquetas <meta>
@@ -188,50 +187,50 @@ Las etiquetas meta HTML no son visibles para los usuarios, pero pueden ser muy �
 
 Aquí hay algunos ejemplos de etiquetas meta HTML:
 
-title
+## title
 La etiqueta <title> se utiliza para especificar el título de una página web. El título se muestra en la barra de título del navegador web y en los resultados de búsqueda.
 
 <title>Esta es la página web de ejemplo</title>
 
-description
+## description
 La etiqueta <meta name="description" content=""> se utiliza para especificar una descripción de una página web. La descripción se muestra en los resultados de búsqueda.
 
 <meta name="description" content="Esta página web es sobre el aprendizaje automático. Se explica qué es el aprendizaje automático, cómo funciona y cómo se puede utilizar.">
 
 
-keywords
+## keywords
 La etiqueta <meta name="keywords" content=""> se utiliza para especificar las palabras clave de una página web. Las palabras clave se utilizan por los motores de búsqueda para encontrar páginas web.
 
 <meta name="keywords" content="aprendizaje automático, inteligencia artificial, machine learning">
 
-publication_date
+## publication_date
 La etiqueta <meta name="publication_date" content=""> se utiliza para especificar la fecha de publicación de una página web. La fecha de publicación se utiliza por los motores de búsqueda para ordenar las páginas web en los resultados de búsqueda.
 
 <meta name="publication_date" content="2023-03-08">
 
-author
+## author
 La etiqueta <meta name="author" content=""> se utiliza para especificar el autor de una página web. El autor se utiliza por los motores de búsqueda para mostrar información sobre el autor de una página web en los resultados de búsqueda.
 
 <meta name="author" content="Jhon Valencia">
 
-license
+## license
 La etiqueta <meta name="license" content=""> se utiliza para especificar la licencia de una página web. La licencia se utiliza para informar a los usuarios sobre los derechos de autor de una página web.
 
 <meta name="license" content="Creative Commons Attribution-ShareAlike 4.0 International License">
 
-viewport
+## viewport
 El viewport es el área de una página web que se muestra en el navegador. Se puede definir como el área rectangular dentro del navegador que contiene el contenido de la página web. El viewport se puede ajustar en tamaño y posición, y se puede utilizar para mejorar la experiencia de visualización de la página web en diferentes dispositivos. Por ejemplo, la siguiente etiqueta meta HTML viewport establece el viewport en 1000 píxeles de ancho y una escala inicial de 1.5:
 
 <meta name="viewport" content="width=1000, initial-scale=1.5">
 
-charset
+## charset
 La etiqueta <meta charset="UTF-8"> es una etiqueta HTML que especifica la codificación de caracteres para el documento HTML. Le dice al navegador cómo interpretar el texto en la página para que se muestre correctamente. El atributo charset especifica la codificación de caracteres a utilizar. La codificación de caracteres más común es UTF-8, que puede representar casi todos los caracteres y símbolos del mundo.
 
 <meta charset="UTF-8">
 
 Las etiquetas meta HTML son una parte importante del lenguaje HTML. Se utilizan para proporcionar información adicional sobre una página web que puede ser útil para los motores de búsqueda y para los usuarios.
 
-Etiquetas HTML
+## Etiquetas HTML
 Headings
 Los encabezados HTML se utilizan para definir la estructura de una página web. También son utilizados por los motores de búsqueda para indexar el contenido de una página. Hay seis niveles de encabezados en HTML, desde el más importante (<h1>) hasta el menos importante (<h6>).
 
@@ -382,7 +381,7 @@ Para insertar una nueva línea en una tabla
 Para insertar una nueva línea en un formulario
 La etiqueta <br> es una herramienta útil para insertar nuevas líneas en el texto. Al utilizar esta etiqueta correctamente, puede mejorar la claridad y la legibilidad de su contenido web.
 
-<span>
+## <span>
 La etiqueta HTML <span> es un contenedor genérico que se utiliza para agrupar elementos de texto o de contenido. Se puede utilizar para aplicar estilos a un grupo de elementos, o para compartir atributos como lang.
 
 El elemento <span> no tiene ningún significado semántico inherente, pero se puede utilizar con otros elementos semánticos para proporcionar información adicional. Por ejemplo, se puede utilizar para agregar un título a un elemento <img> o para especificar el idioma de un elemento <p>.
@@ -444,7 +443,7 @@ Las etiquetas semánticas HTML son etiquetas de HTML que se utilizan para descri
 
 Algunas de las etiquetas semánticas HTML más comunes incluyen:
 
-<header>
+## <header>
 La etiqueta HTML <header> se utiliza para etiquetar el encabezado de una página web. El encabezado suele contener información importante sobre la página web, como el título, el logotipo, el menú de navegación y los enlaces a las redes sociales.
 
 La etiqueta <header> no es un elemento de sección, por lo que no introduce una nueva sección en la estructura de la página. Sin embargo, se puede utilizar para agrupar elementos de encabezado, como el título, el logotipo y el menú de navegación.
@@ -456,6 +455,8 @@ bgcolor: Este atributo se utiliza para establecer el color de fondo del encabeza
 width: Este atributo se utiliza para establecer el ancho del encabezado.
 Aquí hay un ejemplo de un encabezado HTML simple:
 
+```
+
 <header>
   <h1>Este es el título de la página</h1>
   <img src="logo.png" alt="Logotipo de la empresa">
@@ -466,7 +467,9 @@ Aquí hay un ejemplo de un encabezado HTML simple:
   </nav>
 </header>
 
-<main>
+```
+
+## <main>
 La etiqueta HTML <main> se utiliza para etiquetar el contenido principal de una página web. El contenido principal es el contenido que es más importante para el tema de la página web.
 
 La etiqueta <main> solo puede aparecer una vez en una página web. Su contenido no debe incluir elementos como encabezados, pies de página, formularios de búsqueda, enlaces de navegación, etc., a menos que sean el contenido principal de la página web.
@@ -523,7 +526,7 @@ id: Este atributo se utiliza para dar un id único al pie de página. El id se p
 
 Aquí hay un ejemplo de un pie de página HTML simple:
 
-<footer>
+## <footer>
   <p>Este es el pie de página de la página web.</p>
   <p>Copyright © 2023, My Website. Todos los derechos reservados.</p>
 </footer>
